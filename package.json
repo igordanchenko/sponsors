@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "build": "sponsorkit"
+  },
+  "devDependencies": {
+    "@types/node": "^24",
+    "sponsorkit": "^17"
+  }
+}
