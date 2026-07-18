@@ -4,8 +4,9 @@
     "config:best-practices",
     "schedule:weekly",
     ":automergeMinor",
-    ":automergeDigest",
-    ":approveMajorUpdates"
+    ":automergeDigest"
   ],
+  "timezone": "America/Los_Angeles",
+  "minimumReleaseAge": "3 days",
   "ignoreTests": true
 }
