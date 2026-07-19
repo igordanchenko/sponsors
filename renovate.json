@@ -7,6 +7,5 @@
     ":automergeDigest"
   ],
   "timezone": "America/Los_Angeles",
-  "minimumReleaseAge": "3 days",
   "ignoreTests": true
 }
