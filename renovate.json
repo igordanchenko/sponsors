@@ -6,6 +6,5 @@
     ":automergeMinor",
     ":automergeDigest"
   ],
-  "timezone": "America/Los_Angeles",
-  "ignoreTests": true
+  "timezone": "America/Los_Angeles"
 }
