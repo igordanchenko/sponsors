@@ -5,7 +5,7 @@
   },
   "devDependencies": {
     "@types/node": "24.13.3",
-    "sponsorkit": "17.1.1"
+    "sponsorkit": "18.0.0"
   },
   "overrides": {
     "sharp": "0.35.3"
