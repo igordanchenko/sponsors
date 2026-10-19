@@ -4,7 +4,7 @@
     "build": "sponsorkit"
   },
   "devDependencies": {
-    "@types/node": "24.19.1",
+    "@types/node": "24.19.2",
     "sponsorkit": "18.0.0"
   }
 }
