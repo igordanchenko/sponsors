@@ -5,6 +5,6 @@
   },
   "devDependencies": {
     "@types/node": "24.19.2",
-    "sponsorkit": "18.0.0"
+    "sponsorkit": "19.0.0"
   }
 }
